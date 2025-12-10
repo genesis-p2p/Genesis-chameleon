@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pillow
+numpy
+
+# RUN THIS :  pip install -r requirements.txt
+
